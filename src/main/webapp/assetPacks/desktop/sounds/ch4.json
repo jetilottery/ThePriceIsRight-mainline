@@ -1,0 +1,21 @@
+{
+  "urls": [
+    "ch4.mp3",
+    "ch4.ogg",
+    "ch4.m4a"
+  ],
+  "sprite": {
+    "Cliff Hangers step activated": [
+      0,
+      3914.6485260770974
+    ],
+    "Mountaineer falls off": [
+      4500,
+      4885.328798185942
+    ],
+    "Symbol match win_2Seconds": [
+      10000,
+      2072.380952380952
+    ]
+  }
+}

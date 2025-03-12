@@ -1,0 +1,21 @@
+{
+  "urls": [
+    "ch1.mp3",
+    "ch1.ogg",
+    "ch1.m4a"
+  ],
+  "sprite": {
+    "Better Luck Next Time": [
+      0,
+      7103.28798185941
+    ],
+    "Congratulations": [
+      8500,
+      12160
+    ],
+    "Music loop": [
+      22000,
+      18004.580498866217
+    ]
+  }
+}

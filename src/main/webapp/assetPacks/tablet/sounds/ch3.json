@@ -1,0 +1,25 @@
+{
+  "urls": [
+    "ch3.mp3",
+    "ch3.ogg",
+    "ch3.m4a"
+  ],
+  "sprite": {
+    "Big Wheel won": [
+      0,
+      2879.9773242630386
+    ],
+    "Mountaineer climbs_WoodThud3": [
+      3500,
+      277.0294784580498
+    ],
+    "Mountaineer falls off": [
+      5000,
+      4885.328798185942
+    ],
+    "Plaque appears": [
+      10500,
+      1561.5419501133783
+    ]
+  }
+}

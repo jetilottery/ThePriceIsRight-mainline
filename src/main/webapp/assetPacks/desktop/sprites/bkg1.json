@@ -1,0 +1,28 @@
+{"frames": {
+
+"baseStage":
+{
+	"frame": {"x":1,"y":1,"w":1440,"h":810},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1440,"h":810},
+	"sourceSize": {"w":1440,"h":810}
+},
+"mountainStage":
+{
+	"frame": {"x":1,"y":813,"w":1440,"h":810},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1440,"h":810},
+	"sourceSize": {"w":1440,"h":810}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bkg1.jpg",
+	"format": "RGB888",
+	"size": {"w":1442,"h":1624},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:daf5b8bd49cd120b093ce093fb038ea0:50db92a933a625172f894f773260dc9f:d28bc8eae9258ee6a621be02de9c97c4$"
+}
+}

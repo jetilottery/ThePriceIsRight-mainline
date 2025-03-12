@@ -1,0 +1,90 @@
+{
+  "version": "13-7-2018 14:39PM ThePriceIsRight Default MA",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "Da {@minRTP}% a {@maxRTP}%",
+    "paybackTitle": "Ritorno previsto",
+    "paybackBody": "Il ritorno teorico a lungo termine previsto per questo gioco è pari a {RTP}.",
+    "subheading": "Prezzo Biglietto: {ticketCost}",
+    "game1": "Premi Partita 1 ",
+    "game2": "Premi Partita 2 ",
+    "cliffHangers": "Premi Cliff Hangers ",
+    "prizeLevel": "Livello del Premio",
+    "description": "Descrizione",
+    "prizeValue": "Valore del Premio"
+  },
+  "MenuCommand": {
+    "price": "Prezzo",
+    "stake": "Puntata",
+    "howToPlay": "Aiuto",
+    "paytable": "Tabella dei pagamenti",
+    "close": "Chiudi",
+    "audio": {
+      "sound": "Audio",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "title": "The Price Is Right",
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "PREZZO BIGLIETTO",
+    "footer_win": {
+      "BUY": "VINCITA",
+      "TRY": "VINCITA DEMO"
+    },
+    "footer_winPrefix": {
+      "BUY": "",
+      "TRY": "PROVA "
+    },
+    "button_buy": "ACQUISTA",
+    "button_try": "PROVA",
+    "button_continue": "CONTINUA",
+    "button_moveToMoney": "GIOCA CON DENARO REALE",
+    "button_autoPlay": "MOSTRA TUTTI",
+    "button_autoPlayStop": "STOP",
+    "button_playAgain": "GIOCA ANCORA",
+    "button_tryAgain": "RIPROVA",
+    "button_ok": "OK",
+    "button_exit": "ESCI",
+    "button_close": "CHIUDI",
+    "sessionTimeout_button_exit": "ESCI",
+    "sessionTimeout_button_continue": "CONTINUA A GIOCARE",
+    "error_button_exit": "ESCI",
+    "error_title": "ERRORE",
+    "message_nonWin": "SARAI PIÙ FORTUNATO\nLA PROSSIMA VOLTA",
+    "message_congratulations": {
+      "BUY": "CONGRATULAZIONI!",
+      "TRY": "GRAZIE PER AVER GIOCATO CON NOI!"
+    },
+    "message_win": {
+      "BUY": "HAI VINTO",
+      "TRY": "AVRESTI POTUTO VINCERE"
+    },
+    "button_spin": "GIRA",
+    "button_play": "GIOCA",
+    "win_up_to": "VINCI FINO A",
+    "win_up_to_mark": "!",
+    "tutorial_title": "COME SI GIOCA",
+    "tutorial_splash": "4 DIVERSE\nMODALITÀ DI VINCITA!",
+    "tutorial_0": "Riempi i contatori per giocare i bonus!",
+    "tutorial_1": "Seleziona i simboli nelle file 1 e 2 per rivelare gli importi dei premi.\nPer vincere, trova 3 importi dei premi identici in una riga!",
+    "tutorial_2": "Seleziona i simboli nelle file 3 e 4 per rivelare gli importi dei premi.\nAbbina i SIMBOLI VINCENTI ai TUOI SIMBOLI per vincere!",
+    "tutorial_3": "Ferma il rullo che gira per rivelare un numero e permettere allo Jodler di avanzare di quel numero di scatti. Se lo Jodler raggiunge la sommità della montagna senza precipitare, hai vinto!",
+    "tutorial_4": "Sei un vincitore!\nFai girare la ruota Showcase Showdown per giocarti la possibilità di moltiplicare il tuo premio!",
+    "game_1_2": "PARTITA 1: PER VINCERE RIVELA UNA RIGA CON PREMI DELLO STESSO VALORE",
+    "game_3_4": "PARTITA 2: PER VINCERE TROVA UNA RIGA CON UN SIMBOLO VINCENTE UGUALE A UN TUO SIMBOLO",
+    "your_number": "I TUOI SIMBOLI",
+    "luck_number": "SIMBOLI VINCENTI",
+    "row": "RIGA",
+    "win": "VINCITA",
+    "multiplier": "MOLTIPLICATORE",
+    "baseGame": "Gioco Principale:",
+    "cliffHangers": "Cliff Hangers:",
+    "showcaseShowdown": "Showcase Showdown:",
+    "bonusWin": "VINCITA BONUS",
+    "totalWin": "VINCITA TOTALE",
+    "totalWin2": "VINCITA TOTALE:",
+    "playingNext": "GIOCHIAMO A"
+  }
+}

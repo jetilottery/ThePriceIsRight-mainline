@@ -1,0 +1,84 @@
+{"frames": {
+
+"CH_Meter":
+{
+	"frame": {"x":1,"y":669,"w":502,"h":196},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":196},
+	"sourceSize": {"w":502,"h":196},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"CliffhangersLogoo":
+{
+	"frame": {"x":1132,"y":608,"w":351,"h":68},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":351,"h":68},
+	"sourceSize": {"w":351,"h":68},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"HowToPlayFrameHeader":
+{
+	"frame": {"x":1,"y":1,"w":1238,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1238,"h":87},
+	"sourceSize": {"w":1238,"h":87},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"HowToPlaySplash":
+{
+	"frame": {"x":1,"y":90,"w":1129,"h":577},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1129,"h":577},
+	"sourceSize": {"w":1129,"h":577},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ShowcaseShowdownLogo":
+{
+	"frame": {"x":466,"y":867,"w":561,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":561,"h":43},
+	"sourceSize": {"w":561,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SS_Meter":
+{
+	"frame": {"x":505,"y":669,"w":494,"h":187},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":494,"h":187},
+	"sourceSize": {"w":494,"h":187},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Text_Showcase":
+{
+	"frame": {"x":1,"y":867,"w":463,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":463,"h":68},
+	"sourceSize": {"w":463,"h":68},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Text_Showdown":
+{
+	"frame": {"x":1132,"y":90,"w":516,"h":68},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":516,"h":68},
+	"sourceSize": {"w":516,"h":68},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "help.png",
+	"format": "RGBA8888",
+	"size": {"w":1240,"h":960},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f7a9b4fed2f41355d21038bd65e18f1e:8c4c11e87aea34e8eab5f5faf2ea6614:51c89e79a0ae3c5920e8bf33b1036f7d$"
+}
+}

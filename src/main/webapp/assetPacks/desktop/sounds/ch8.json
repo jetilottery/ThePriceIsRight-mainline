@@ -1,0 +1,21 @@
+{
+  "urls": [
+    "ch8.mp3",
+    "ch8.ogg",
+    "ch8.m4a"
+  ],
+  "sprite": {
+    "Cliff Hangers step activated": [
+      0,
+      3914.6485260770974
+    ],
+    "GenericClick_1": [
+      4500,
+      538.4126984126984
+    ],
+    "New_Win_V2": [
+      6000,
+      1190.0226757369614
+    ]
+  }
+}

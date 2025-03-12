@@ -1,0 +1,20 @@
+{"frames": {
+
+"port_BaseGameBG":
+{
+	"frame": {"x":1,"y":1,"w":810,"h":1226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1226},
+	"sourceSize": {"w":810,"h":1226}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bkg3.jpg",
+	"format": "RGB888",
+	"size": {"w":812,"h":1228},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:10ca8dffc8de1f50f1531507514f136f:125687ee6281df73eb63207c7bf361b0:1a877e6962c82872d3b23e07169cde17$"
+}
+}

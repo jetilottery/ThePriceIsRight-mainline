@@ -1,0 +1,29 @@
+{
+  "urls": [
+    "ch2.mp3",
+    "ch2.ogg",
+    "ch2.m4a"
+  ],
+  "sprite": {
+    "Big Wheel starting-stopping": [
+      0,
+      233.56009070294783
+    ],
+    "Mountaineer climbs_WoodThud2": [
+      1500,
+      213.94557823129244
+    ],
+    "Multiplier landed on - short": [
+      3000,
+      4969.07029478458
+    ],
+    "Play Button_AcceptBet_3Seconds": [
+      8500,
+      3047.6190476190473
+    ],
+    "Symbol reveal_V1": [
+      13000,
+      787.3469387755101
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "urls": [
+    "ch0.ogg",
+    "ch0.m4a",
+    "ch0.mp3"
+  ],
+  "sprite": {
+    "ABLANK": [
+      0,
+      1062.4943310657598
+    ],
+    "Better Luck Next Time audience": [
+      3000,
+      6407.256235827664
+    ],
+    "Big Wheel spinning": [
+      11000,
+      100.06802721088448
+    ],
+    "Congratulations audience": [
+      13000,
+      12199.954648526078
+    ],
+    "Mountaineer climbs_WoodThud1": [
+      27000,
+      321.45124716553397
+    ]
+  }
+}

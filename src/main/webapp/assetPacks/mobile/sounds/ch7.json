@@ -1,0 +1,37 @@
+{
+  "urls": [
+    "ch7.mp3",
+    "ch7.ogg",
+    "ch7.m4a"
+  ],
+  "sprite": {
+    "Bet Down": [
+      0,
+      883.6734693877552
+    ],
+    "Bet Max": [
+      1500,
+      1584.7619047619048
+    ],
+    "Bet Up": [
+      4000,
+      701.40589569161
+    ],
+    "Better Luck Next Time audience": [
+      5500,
+      6407.256235827664
+    ],
+    "Big Wheel spinning": [
+      13000,
+      100.06802721088448
+    ],
+    "Congratulations audience": [
+      14500,
+      12199.954648526078
+    ],
+    "Mountaineer climbs_WoodThud1": [
+      28000,
+      321.45124716553397
+    ]
+  }
+}

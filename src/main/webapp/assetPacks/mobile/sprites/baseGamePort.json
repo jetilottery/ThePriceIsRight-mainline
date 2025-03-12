@@ -1,0 +1,68 @@
+{"frames": {
+
+"Game1_RowNumber":
+{
+	"frame": {"x":1,"y":708,"w":87,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":103},
+	"sourceSize": {"w":87,"h":103}
+},
+"Game2_RowNumber":
+{
+	"frame": {"x":90,"y":708,"w":87,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":103},
+	"sourceSize": {"w":87,"h":103}
+},
+"Games3_RowNumber":
+{
+	"frame": {"x":179,"y":708,"w":87,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":101},
+	"sourceSize": {"w":87,"h":101}
+},
+"Games4_RowNumber":
+{
+	"frame": {"x":268,"y":708,"w":87,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":101},
+	"sourceSize": {"w":87,"h":101}
+},
+"port_audience":
+{
+	"frame": {"x":1,"y":382,"w":810,"h":324},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":324},
+	"sourceSize": {"w":810,"h":324}
+},
+"port_BaseGameForeground":
+{
+	"frame": {"x":813,"y":1,"w":803,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":803,"h":809},
+	"sourceSize": {"w":810,"h":1440}
+},
+"port_Games3&4_FrameBG":
+{
+	"frame": {"x":1,"y":1,"w":810,"h":379},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":379},
+	"sourceSize": {"w":810,"h":379}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "baseGamePort.png",
+	"format": "RGBA8888",
+	"size": {"w":1617,"h":812},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8ba6d51b2e8960fad9d4c9aeedeaf411:26cbd38e1cb089c63ecf92dd913d0d91:86269237e41e53b6501fa3619b691599$"
+}
+}

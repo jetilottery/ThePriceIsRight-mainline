@@ -1,0 +1,90 @@
+{
+  "version": "13-7-2018 14:39PM ThePriceIsRight Default MA",
+  "Paytable": {
+    "RTPvalue": "{@minRTP} %",
+    "RTPrange": "{@minRTP} % bis {@maxRTP} %",
+    "paybackTitle": "Erwartete Rückzahlung",
+    "paybackBody": "Für dieses Spiel beträgt die langfristig erwartete Rückzahlung {RTP}.",
+    "subheading": "Ticketpreis: {ticketCost}",
+    "game1": "Spiel 1 Preise ",
+    "game2": "Spiel 2 Preise ",
+    "cliffHangers": "Cliff-Hangers-Preise ",
+    "prizeLevel": "Preisstufe",
+    "description": "Beschreibung",
+    "prizeValue": "Preiswert"
+  },
+  "MenuCommand": {
+    "price": "Preis",
+    "stake": "Einsatz",
+    "howToPlay": "Hilfe",
+    "paytable": "Gewinntabelle",
+    "close": "Schließen",
+    "audio": {
+      "sound": "Ton",
+      "on": "Ein",
+      "off": "Aus"
+    }
+  },
+  "title": "The Price Is Right",
+  "Game": {
+    "footer_balance": "GUTHABEN",
+    "footer_ticketCost": "TICKETPREIS",
+    "footer_win": {
+      "BUY": "GEWINN",
+      "TRY": "DEMO-GEWINN"
+    },
+    "footer_winPrefix": {
+      "BUY": "",
+      "TRY": "AUSPROBIEREN "
+    },
+    "button_buy": "KAUFEN",
+    "button_try": "AUSPROBIEREN",
+    "button_continue": "WEITER",
+    "button_moveToMoney": "ZU ECHTGELD WECHSELN",
+    "button_autoPlay": "ALLE AUFDECKEN",
+    "button_autoPlayStop": "STOP",
+    "button_playAgain": "ERNEUT SPIELEN",
+    "button_tryAgain": "ERNEUT PROBIEREN",
+    "button_ok": "OK",
+    "button_exit": "BEENDEN",
+    "button_close": "SCHLIESSEN",
+    "sessionTimeout_button_exit": "BEENDEN",
+    "sessionTimeout_button_continue": "WEITERSPIELEN",
+    "error_button_exit": "BEENDEN",
+    "error_title": "FEHLER",
+    "message_nonWin": "MEHR GLÜCK\nBEIM NÄCHSTEN MAL",
+    "message_congratulations": {
+      "BUY": "GLÜCKWUNSCH!",
+      "TRY": "VIELEN DANK FÜRS SPIELEN!"
+    },
+    "message_win": {
+      "BUY": "SIE HABEN GEWONNEN",
+      "TRY": "SIE HÄTTEN GEWINNEN KÖNNEN"
+    },
+    "button_spin": "DREHEN",
+    "button_play": "SPIELEN",
+    "win_up_to": "GEWINNEN SIE BIS ZU",
+    "win_up_to_mark": "!",
+    "tutorial_title": "SPIELANLEITUNG",
+    "tutorial_splash": "4 VERSCHIEDENE\nMÖGLICHKEITEN ZU GEWINNEN!",
+    "tutorial_0": "Füllen Sie die Anzeigen, \num die Bonusse zu spielen!",
+    "tutorial_1": "Wählen Sie Symbole in den Reihen 1 und 2 aus, um Preis-Werte zu enthüllen.\nFinden Sie 3 identische Preis-Werte in einer Reihe, um zu gewinnen!",
+    "tutorial_2": "Wählen Sie Symbole in den Reihen 3 und 4 aus, um Preis-Werte zu enthüllen.\nStimmen die GEWINNSYMBOLE mit IHREN SYMBOLEN ÜBEREIN, gewinnen Sie!",
+    "tutorial_3": "Stoppen Sie die drehende Walze, um eine Zahl zu enthüllen und lassen Sie den Jodler diese Anzahl an Schritten nach oben steigen. Wenn der Jodler die Spitze des Felsens erreicht und nicht über die Klippe stürzt, gewinnen Sie!",
+    "tutorial_4": "Sie sind ein Gewinner!\nDrehen Sie das Showcase-Showdown-Rad, für eine Chance, Ihren Preis zu multiplizieren!",
+    "game_1_2": "SPIEL 1: DECKEN SIE EINE REIHE MIT IDENTISCHEN PREIS-WERTEN AUF, UM ZU GEWINNEN",
+    "game_3_4": "SPIEL 2: FINDEN SIE EINE REIHE MIT GEWINNSYMBOLEN, DIE MIT IHREN SYMBOLEN ÜBEREINSTIMMEN, UM ZU GEWINNEN",
+    "your_number": "IHRE SYMBOLE",
+    "luck_number": "GEWINNSYMBOLE",
+    "row": "REIHE",
+    "win": "GEWINN",
+    "multiplier": "MULTIPLIKATOR",
+    "baseGame": "Hauptspiel:",
+    "cliffHangers": "Cliff Hangers:",
+    "showcaseShowdown": "Showcase Showdown:",
+    "bonusWin": "BONUSGEWINN",
+    "totalWin": "GESAMTGEWINN",
+    "totalWin2": "GESAMTGEWINN:",
+    "playingNext": ""
+  }
+}

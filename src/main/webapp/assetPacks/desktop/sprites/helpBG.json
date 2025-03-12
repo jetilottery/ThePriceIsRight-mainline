@@ -1,0 +1,30 @@
+{"frames": {
+
+"HowToPlayFrame":
+{
+	"frame": {"x":1,"y":1,"w":1421,"h":621},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1421,"h":621},
+	"sourceSize": {"w":1421,"h":621},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"port_HowToPlayFrame":
+{
+	"frame": {"x":1,"y":624,"w":767,"h":934},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":767,"h":934},
+	"sourceSize": {"w":767,"h":934},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "helpBG.png",
+	"format": "RGBA8888",
+	"size": {"w":1423,"h":1392},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a2112945a57b2a15a7ae08afe2e872f9:cb9572d3c69037df3497cb194fda581e:f8f2783c88a23f3687b0f2a0806b232d$"
+}
+}

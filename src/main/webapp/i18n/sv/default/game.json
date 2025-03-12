@@ -1,0 +1,90 @@
+{
+  "version": "13-7-2018 14:39PM ThePriceIsRight Default MA",
+  "Paytable": {
+    "RTPvalue": "{@minRTP} %",
+    "RTPrange": "{@minRTP} % till {@maxRTP} %",
+    "paybackTitle": "Förväntad återbetalning",
+    "paybackBody": "För det här spelet är den långsiktiga, teoretiskt förväntade återbetalningen {RTP}.",
+    "subheading": "Lottkostnad: {ticketCost}",
+    "game1": "Spel 1 priser ",
+    "game2": "Spel 2 priser ",
+    "cliffHangers": "Cliff Hangers-priser ",
+    "prizeLevel": "Prisnivå",
+    "description": "Beskrivning",
+    "prizeValue": "Prisvärde"
+  },
+  "MenuCommand": {
+    "price": "Pris",
+    "stake": "Insats",
+    "howToPlay": "Hjälp",
+    "paytable": "Vinsttabell",
+    "close": "Stäng",
+    "audio": {
+      "sound": "Ljud",
+      "on": "På",
+      "off": "Av"
+    }
+  },
+  "title": "The Price Is Right",
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "LOTTKOSTNAD",
+    "footer_win": {
+      "BUY": "VINST",
+      "TRY": "DEMOVINST"
+    },
+    "footer_winPrefix": {
+      "BUY": "",
+      "TRY": "FÖRSÖK "
+    },
+    "button_buy": "KÖP",
+    "button_try": "FÖRSÖK",
+    "button_continue": "FORTSÄTT",
+    "button_moveToMoney": "FLYTTA TILL PENGAR",
+    "button_autoPlay": "AVSLÖJA ALLA",
+    "button_autoPlayStop": "STOPP",
+    "button_playAgain": "SPELA IGEN",
+    "button_tryAgain": "FÖRSÖK IGEN",
+    "button_ok": "OK",
+    "button_exit": "LÄMNA",
+    "button_close": "STÄNG",
+    "sessionTimeout_button_exit": "LÄMNA",
+    "sessionTimeout_button_continue": "FORTSÄTT SPELA",
+    "error_button_exit": "LÄMNA",
+    "error_title": "FEL",
+    "message_nonWin": "BÄTTRE LYCKA\nNÄSTA GÅNG",
+    "message_congratulations": {
+      "BUY": "GRATTIS!",
+      "TRY": "TACK FÖR ATT DU SPELAR!"
+    },
+    "message_win": {
+      "BUY": "DU HAR VUNNIT",
+      "TRY": "DU KUNDE HA VUNNIT"
+    },
+    "button_spin": "SNURRA",
+    "button_play": "SPELA",
+    "win_up_to": "VINN UPP TILL",
+    "win_up_to_mark": "!",
+    "tutorial_title": "SÅ HÄR SPELAR DU",
+    "tutorial_splash": "4 OLIKA SÄTT\nATT VINNA PÅ!",
+    "tutorial_0": "Fyll mätarna för att spela bonusarna!",
+    "tutorial_1": "Välj symboler på rad 1 och 2 för att avslöja prisvärden.\nHitta 3 identiska prisvärden på en rad för att vinna!",
+    "tutorial_2": "Välj symboler på rad 3 och 4 för att avslöja prisvärden.\nMatcha VINNANDE SYMBOLER med DINA SYMBOLER för att vinna!",
+    "tutorial_3": "Stanna det snurrande hjulet för att avslöja ett nummer och få joddlaren att klättra samma antal steg. Du vinner om joddlaren når bergets topp utan att falla över kanten!",
+    "tutorial_4": "Du är en vinnare!\nSnurra på Showcase Showdown-hjulet för en chans att multiplicera ditt pris!",
+    "game_1_2": "SPEL 1: AVSLÖJA EN RAD MED IDENTISKA PRISVÄRDEN FÖR ATT VINNA",
+    "game_3_4": "SPEL 2: HITTA EN RAD MED EN VINNANDE SYMBOL SOM MATCHAR EN AV DINA SYMBOLER FÖR ATT VINNA",
+    "your_number": "DINA SYMBOLER",
+    "luck_number": "VINNANDE SYMBOLER",
+    "row": "RAD",
+    "win": "VINST-",
+    "multiplier": "MULTIPLIKATOR",
+    "baseGame": "Grundspel:",
+    "cliffHangers": "Cliff Hangers:",
+    "showcaseShowdown": "Showcase Showdown:",
+    "bonusWin": "BONUSVINST",
+    "totalWin": "TOTAL VINST",
+    "totalWin2": "TOTAL VINST:",
+    "playingNext": ""
+  }
+}

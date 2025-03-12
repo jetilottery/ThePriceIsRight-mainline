@@ -1,0 +1,98 @@
+{
+	"version":"13-7-2018 14:39PM ThePriceIsRight Default MA",
+	
+	"Paytable": {
+		"RTPvalue": "{@minRTP}%",
+		"RTPrange": "{@minRTP}% to {@maxRTP}%",
+		"paybackTitle": "Expected Payback",
+		"paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+		"subheading": "Ticket Cost: {ticketCost}",
+		"game1" : "Game 1 Prizes ",
+		"game2" : "Game 2 Prizes ",
+		"cliffHangers" : "Cliff Hangers Prizes ",
+		"prizeLevel": "Prize Level",
+		"description": "Description",
+		"prizeValue": "Prize Value"
+	},
+
+	"MenuCommand": {
+		"price": "Price",
+		"stake": "Stake",
+		"howToPlay": "Help",
+		"paytable": "Paytable",
+		"close": "Close",
+		"audio": {
+			"sound": "Sound",
+			"on": "On",
+			"off": "Off"
+		}
+	},
+	
+	"title": "The Price Is Right",
+	
+	"Game": {
+		"footer_balance": "BALANCE",
+		"footer_ticketCost": "TICKET COST",
+    "footer_win": {
+      "BUY": "WIN",
+      "TRY": "DEMO WIN"
+		},
+    "footer_winPrefix": {
+      "BUY": "",
+      "TRY": "TRY "
+		},
+		"button_buy": "BUY",
+		"button_try": "TRY",
+		"button_continue": "CONTINUE",
+		"button_moveToMoney": "MOVE TO MONEY",
+		"button_autoPlay": "REVEAL ALL",
+		"button_autoPlayStop": "STOP",
+    "button_playAgain": "PLAY AGAIN",
+    "button_tryAgain": "TRY AGAIN",
+		"button_ok": "OK",
+		"button_exit": "EXIT",
+		"button_close": "CLOSE",
+		
+		"sessionTimeout_button_exit": "EXIT",
+		"sessionTimeout_button_continue": "KEEP PLAYING",
+		
+		"error_button_exit": "EXIT",
+		"error_title": "ERROR",
+		
+		"message_nonWin": "BETTER LUCK\nNEXT TIME",
+    "message_congratulations": {
+      "BUY": "CONGRATULATIONS!",
+      "TRY": "THANKS FOR PLAYING!"
+    },
+    "message_win": {
+      "BUY": "YOU HAVE WON",
+      "TRY": "YOU COULD HAVE WON"
+    },
+		
+		"button_spin": "SPIN",
+		"button_play": "PLAY",
+		"win_up_to":"WIN UP TO",
+		"win_up_to_mark":"!",
+		"tutorial_title":"HOW TO PLAY",
+		"tutorial_splash":"4 DIFFERENT\nWAYS TO WIN!",
+		"tutorial_0":"Fill the meters to play the bonuses!",
+		"tutorial_1":"Select symbols in rows 1 and 2 to reveal prize values.\nFind 3 identical prize values in a row to win!",
+		"tutorial_2":"Select symbols in rows 3 and 4 to reveal prize values.\nMatch WINNING SYMBOLS to YOUR SYMBOLS and win!",
+		"tutorial_3":"Stop the spinning reel to reveal a number and let the Yodeler climb that number of steps. If the Yodeler reaches the top of the cliff without going over, you win!",
+		"tutorial_4":"You're a winner!\nSpin the Showcase Showdown wheel for a chance to multiply your prize!",
+		"game_1_2": "GAME 1: REVEAL A ROW WITH IDENTICAL PRIZE VALUES TO WIN",
+		"game_3_4": "GAME 2: FIND A ROW WITH A WINNING SYMBOL THAT MATCHES A YOUR SYMBOL TO WIN",
+		"your_number":"YOUR SYMBOLS",
+		"luck_number":"WINNING SYMBOLS",
+		"row":"ROW",
+		"win":"WIN",
+		"multiplier":"MULTIPLIER",
+		"baseGame": "Base Game:",
+		"cliffHangers": "Cliff Hangers:",
+		"showcaseShowdown": "Showcase Showdown:",
+		"bonusWin": "BONUS WIN",
+		"totalWin":"TOTAL WIN",
+		"totalWin2":"TOTAL WIN:",
+		"playingNext":"LET'S PLAY"
+	}
+}

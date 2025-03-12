@@ -1,0 +1,98 @@
+﻿{
+	"version":"13-7-2018 14:39PM ThePriceIsRight Default MA",
+
+	"Paytable": {
+		"RTPvalue": "{@minRTP} %",
+		"RTPrange": "{@minRTP}% à {@maxRTP}%",
+		"paybackTitle": "Taux de retour théorique",
+		"paybackBody": "Pour ce jeu, le taux de retour théorique moyen à long terme est de {RTP}.",
+		"subheading": "Coût du billet : {ticketCost}",
+		"game1" : "Lots du jeu 1",
+		"game2" : "Lots du jeu 2",
+		"cliffHangers" : "Lots Cliff Hangers",
+		"prizeLevel": "Niveau du lot",
+		"description": "Description",
+		"prizeValue": "Valeur du lot"
+	},
+
+	"MenuCommand": {
+		"price": "Prix",
+		"stake": "Mise",
+		"howToPlay": "Aide",
+		"paytable": "Table de paiement",
+		"close": "Fermer",
+		"audio": {
+			"sound": "Son",
+			"on": "Activé",
+			"off": "Désactivé"
+		}
+	},
+
+	"title": "The Price Is Right",
+
+	"Game": {
+		"footer_balance": "SOLDE",
+		"footer_ticketCost": "COÛT DU BILLET",
+    "footer_win": {
+      "BUY": "GAIN",
+      "TRY": "GAIN FICTIF"
+		},
+    "footer_winPrefix": {
+      "BUY": "",
+      "TRY": "ESSAYER "
+		},
+		"button_buy": "ACHETER",
+		"button_try": "ESSAYER",
+		"button_continue": "CONTINUER",
+		"button_moveToMoney": "MODE ARGENT RÉEL",
+		"button_autoPlay": "TOUT AFFICHER",
+		"button_autoPlayStop": "ARRÊTER",
+    "button_playAgain": "JOUER DE NOUVEAU",
+    "button_tryAgain": "ESSAYER DE NOUVEAU",
+		"button_ok": "OK",
+		"button_exit": "QUITTER",
+		"button_close": "FERMER",
+
+		"sessionTimeout_button_exit": "QUITTER",
+		"sessionTimeout_button_continue": "CONTINUER À JOUER",
+
+		"error_button_exit": "QUITTER",
+		"error_title": "ERREUR",
+
+		"message_nonWin": "MEILLEURE CHANCE\nLA PROCHAINE FOIS",
+    "message_congratulations": {
+      "BUY": "FÉLICITATIONS!",
+      "TRY": "MERCI DE JOUER!"
+    },
+    "message_win": {
+      "BUY": "VOUS AVEZ GAGNÉ",
+      "TRY": "VOUS AURIEZ PU GAGNER"
+    },
+
+		"button_spin": "LANCER",
+		"button_play": "JOUER",
+		"win_up_to":"GAGNEZ JUSQU’À",
+		"win_up_to_mark":"!",
+		"tutorial_title":"COMMENT JOUER",
+		"tutorial_splash":"QUATRE FAÇONS DIFFÉRENTES\nDE GAGNER!",
+		"tutorial_0":"Remplissez les compteurs \npour jouer aux jeux bonis!",
+		"tutorial_1":"Appuyez sur les symboles des rangées 1 et 2 pour découvrir un lot.\nTrouvez trois lots identiques sur une rangée pour gagner!",
+		"tutorial_2":"Appuyez sur les symboles des rangées 3 et 4 pour découvrir des lots.\nTrouvez des SYMBOLES GAGNANTS identiques à VOS SYMBOLES pour gagner!",
+		"tutorial_3":"Arrêtez le cylindre pour découvrir le nombre de marches que montera le tyrolien. Si le tyrolien atteint le haut de la falaise sans en tomber, vous gagnez!",
+		"tutorial_4":"Vous êtes un gagnant!\nLancez la roue Showcase Showdown pour courir la chance de multiplier votre lot!",
+		"game_1_2": "JEU 1 : DÉCOUVREZ UNE RANGÉE AVEC DES LOTS IDENTIQUES POUR GAGNER",
+		"game_3_4": "JEU 2 : TROUVEZ UNE RANGÉE CONTENANT UN SYMBOLE GAGNANT IDENTIQUE À VOTRE SYMBOLE POUR GAGNER",
+		"your_number":"VOS SYMBOLES",
+		"luck_number":"SYMBOLES GAGNANTS",
+		"row":"RANGÉE",
+		"win":"GAIN",
+		"multiplier":"MULTIPLICATEUR",
+		"baseGame": "Jeu principal :",
+		"cliffHangers": "Cliff Hangers :",
+		"showcaseShowdown": "Showcase Showdown :",
+		"bonusWin": "GAIN BONI",
+		"totalWin":"GAIN TOTAL",
+		"totalWin2":"GAIN TOTAL :",
+		"playingNext":"JOUONS À"
+	}
+}
