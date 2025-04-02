@@ -61,7 +61,7 @@
     <dependency>
       <groupId>com.igt.interactive.skbJet.component.SKBeInstant</groupId>
       <artifactId>SKBeInstant</artifactId>
-      <version>2.2.16-SNAPSHOT</version>
+      <version>2.2.16</version>
       <classifier>dist</classifier>
       <type>zip</type>
     </dependency>
